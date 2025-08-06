@@ -1,11 +1,11 @@
 Política de Privacidad
 
-Nombre de la aplicación: Invias Rural 2024
+Nombre de la aplicación: SIGPAV
 
-Fecha de última actualización: 8 de octubre de 2024
+Fecha de última actualización: 5 de agosto de 2025
 
 1. Introducción
-Nuestra aplicación Invias Rural 2024 está diseñada para brindar información y soporte a los usuarios. No recopilamos ni almacenamos información personal identificable de nuestros usuarios.
+Nuestra aplicación está diseñada para brindar información y soporte a los usuarios. No recopilamos ni almacenamos información personal identificable de nuestros usuarios.
 
 2. Información Recopilada
 
